@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(mqdefault_6s.webp);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 20px;
+   background-color: gold;
+   border-style: ridge;
+   border-color: dodgerblue;
+}
+
